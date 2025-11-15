@@ -21,3 +21,4 @@ Console.WriteLine("*************************************************************
 Console.WriteLine("Сумма делителей = " + ds.GetSumTheDivisors(startValue, stopValue));
 
 Console.ReadKey();
+
