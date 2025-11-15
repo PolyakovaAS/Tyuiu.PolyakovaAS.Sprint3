@@ -18,3 +18,4 @@ Console.WriteLine("*************************************************************
 Console.WriteLine("Произведение ряда = " + ds.GetMultiplySeries(value, startValue, stopValue));
 
 Console.ReadKey();
+
