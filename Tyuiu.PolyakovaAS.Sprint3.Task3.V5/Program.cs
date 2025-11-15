@@ -14,3 +14,4 @@ Console.WriteLine("*************************************************************
 
 Console.Write("Новая строка: " + ds.ReplaceCharInString(value, replaceable, replacement));
 Console.ReadKey();
+
