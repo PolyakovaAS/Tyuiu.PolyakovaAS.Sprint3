@@ -6,3 +6,4 @@ int startvalue = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Input stop value");
 int stopvalue = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Result" + ds.Calculate(startvalue, stopvalue));
+
