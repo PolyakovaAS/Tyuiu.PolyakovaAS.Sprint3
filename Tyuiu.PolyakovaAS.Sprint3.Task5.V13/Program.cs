@@ -8,3 +8,4 @@ Console.WriteLine("* Начальное значение 2: " + s1);
 Console.WriteLine("* Конечное значение 2: " + e1);
 Console.WriteLine("* Результат:                                                              *");
 Console.WriteLine(ds.GetSumSumSeries(5, s, e, s1, e1));
+
