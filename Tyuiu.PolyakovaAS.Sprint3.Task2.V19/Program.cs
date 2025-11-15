@@ -21,3 +21,4 @@ Console.WriteLine("*************************************************************
 var result = ds.GetSumSeries(startValue, stopValue);
 Console.WriteLine(result);
 Console.ReadKey();
+
